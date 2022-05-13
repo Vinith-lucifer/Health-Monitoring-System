@@ -5,7 +5,7 @@ Install Arduino IDE
 <pre><code> https://www.arduino.cc/en/donate/</pre></code>
 
 Install NodeMCU board to Arduino IDE
-
+<pre><code> http://arduino.esp8266.com/stable/package_esp8266com_index.json</pre></code>
 Install Blynk Library
 
 Install DHT11 Library
